@@ -1,9 +1,7 @@
-experience     :deneyim
 estimate       :tahmin etmek
 scarce         :kıt
 frequent       :sık görülen
 receiver       :alıcı
 identical      :özdeş
-
 permeable      :geçirgen
 looming        :baş gösteren
